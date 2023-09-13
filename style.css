@@ -712,6 +712,7 @@ section{
 }
 
 .blog{
+    overflow-y:hidden;
     position: relative;
 }
 
